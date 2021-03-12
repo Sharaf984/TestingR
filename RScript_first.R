@@ -1,0 +1,1 @@
+print("Hello all this is the first secript in R")
